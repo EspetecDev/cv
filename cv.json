@@ -2,43 +2,26 @@
   "analyticsCode": "",
   "pageLayout": "two-column",
   "basics": {
-    "name": "MiraHikari",
-    "label": "Senior Full Stack Developer",
-    "image": "/avatar.png",
-    "email": "mirahikari@gcxstudio.cn",
-    "url": "https://www.gcxstudio.cn",
-    "summary": "Born in 2010, I primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
+    "name": "Manel Hidalgo Agraz",
+    "label": "Senior Game Developer",
+    "image": "./",
+    "email": "manelhidalgoagraz@gmail.com",
+    "url": "https://github.com/EspetecDev",
+    "summary": "Hello there",
     "theme": "red",
     "location": {
-      "address": "Nanchang",
-      "city": "Jiangxi Province",
-      "countryCode": "CN",
-      "region": "China"
+      "address": "Barcelona",
+      "countryCode": "ES",
+      "region": "Spain"
     },
     "profiles": [
       {
-        "network": "Bilibili",
-        "icon": "ri:bilibili-line",
-        "username": "MiraHikari",
-        "url": "https://space.bilibili.com/480025691"
-      },
-      {
-        "network": "QQ",
-        "icon": "ri:qq-fill",
-        "username": "Gong_cx",
-        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=3175992523"
-      },
-      {
         "network": "GitHub",
         "icon": "mdi:github",
-        "username": "MiraHikari",
-        "url": "https://github.com/MiraHikari"
+        "username": "EspetecDev",
+        "url": "https://github.com/EspetecDev"
       }
-    ],
-    "beian": {
-      "mint": "赣ICP备2021005460号-1",
-      "police": "赣公网安备 36010302000349号"
-    }
+    ]
   },
   "images": {
     "intro": "Photography is the art of light, and images are the contours of memory.",
@@ -67,115 +50,158 @@
   },
   "education": [
     {
-      "institution": "Nanchang No.27 Middle School",
-      "url": "",
-      "area": "Regular Student",
-      "studyType": "Full-time student",
-      "startDate": "2021-9-01",
-      "endDate": null
+      "institution": "Universitat Pompeu Fabra - Master's Degree in Game Development",
+      "url": "https://www.upf.edu/",
+      "area": "",
+      "studyType": "nnb",
+      "startDate": "2018-9-01",
+      "endDate": "2019-9-01"
+    },
+    {
+      "institution": "Universitat Rovira i Virgili - Computer Science Degree",
+      "url": "https://www.urv.cat/en/",
+      "area": "",
+      "studyType": "",
+      "startDate": "2012-9-01",
+      "endDate": "2017-9-01"
     }
   ],
   "certificates": [
     {
-      "name": "Success has lived a day in the world.",
-      "date": "2010-04-14",
+      "name": "English - European CEFR B1",
+      "date": "",
       "url": "",
-      "issuer": "Myself"
+      "issuer": ""
     },
     {
-      "name": "TCCP - Senior Cloud Architecture Engineer",
-      "date": "2023-05-01",
+      "name": "Catalan - Native",
+      "date": "",
       "url": "",
-      "issuer": "Tencent Cloud"
+      "issuer": ""
+    },
+    {
+      "name": "Spanish - Native",
+      "date": "",
+      "url": "",
+      "issuer": ""
     }
   ],
   "work": [
     {
-      "name": "Sgguo Development Team",
-      "position": "Full-stack Developer",
+      "name": "Synergy Games",
+      "position": "Senior Gameplay Developer",
       "location_type": "Remote",
-      "location": "CN",
-      "url": "https://github.com/Sgguo-Development-Team",
-      "startDate": "2022-06-01",
+      "location": "ES",
+      "url": "https://www.synergygames.es/",
+      "startDate": "2024-04-01",
       "endDate": null,
-      "summary": "Developing high-availability full-stack projects.",
-      "highlights": [
-        "Enhanced internal workflow efficiency by 30%."
-      ],
+      "summary": "Developing gameplay multiplayer features in Unreal Engine 5",
+      "highlights": [],
       "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang."
+        "Developed features for the game",
+        "Code review my coworkers commits",
+        "Building and maintaining the game"
       ],
       "achievements": [
-        "Implemented a cloud drive and verification code system."
+        "Launching Realms of Aluria"
       ],
       "skills": {
-        "PHP": "simple-icons:php",
-        "Node": "ri:nodejs-line",
-        "Golang": "simple-icons:go",
-        "Next.js": "ri:nextjs-fill",
-        "React": "mdi:react",
-        "SQL": "simple-icons:mysql",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "NestJS": "simple-icons:nestjs",
-        "Vue": "mdi:vuejs"
+        "Unreal Engine 5": "simple-icons:unrealengine",
+        "C++": "simple-icons:cplusplus",
+        "Docker": "simple-icons:docker"
       }
     },
     {
-      "name": "Riddle Town Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://rth2.gcxstudio.cn",
-      "startDate": "2023-01-01",
-      "endDate": "2024-02-11",
-      "summary": "Led page design and account systems.",
+      "name": "Novarama Technology",
+      "position": "Gameplay Programmer",
+      "location_type": "Remote | Onsite",
+      "location": "Barcelona, Spain",
+      "url": "https://novarama.com/",
+      "startDate": "2019-04-01",
+      "endDate": "2024-03-01",
+      "summary": "Worked in several projects with Unreal Engine 4 and 5",
       "highlights": [
-        "Completed 95% of project content."
+        "Launched 3 titles (one both for PC and PS4)"
       ],
       "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
+        "Developed features for the game",
+        "Code review my coworkers commits",
+        "Building and maintaining the game"
       ],
       "achievements": [
         "Ensured smooth project execution."
       ],
       "skills": {
-        "HTML": "simple-icons:html5",
-        "CSS": "ri:css3-fill",
-        "JavaScript": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Vite": "simple-icons:vite",
-        "Node": "ri:nodejs-line",
-        "Docker": "mdi:docker",
-        "WordPress": "ri:wordpress-fill",
-        "Astro": "simple-icons:astro",
-        "SQL": "simple-icons:mysql",
-        "Tailwind": "mdi:tailwind",
-        "React": "mdi:react",
-        "GitHub": "mdi:github",
-        "Git": "mdi:git"
+        "Unreal Engine 5": "simple-icons:unrealengine",
+        "Unreal Engine 4": "simple-icons:unrealengine",
+        "C++": "simple-icons:cplusplus",
+        "Playstation 4": "simple-icons:playstation4",
+        "Steam": "simple-icons:steam",
+        "Docker": "simple-icons:docker"
+      }
+    },
+    {
+      "name": "Applus IDIADA",
+      "position": "Full Stack Developer",
+      "location_type": "Onsite",
+      "location": "Tarragona, Spain",
+      "url": "https://www.applusidiada.com/global/es/",
+      "startDate": "2017-09-01",
+      "endDate": "2018-10-01",
+      "summary": "Developing insider apps for the company",
+      "highlights": [],
+      "responsibilities": [
+        "Developed features for the interal apps",
+        "Code review my coworkers commits",
+        "Ensuring the build pipeline is working"
+      ],
+      "achievements": [
+        "Launching Realms of Aluria"
+      ],
+      "skills": {
+        "Docker": "simple-icons:docker",
+        "Node.js": "ri:nodejs-line",
+        "JavaScript": "simple-icons:javascript"
+      }
+    },
+    {
+      "name": "Digital Legends",
+      "position": "QA Tester",
+      "location_type": "Onsite",
+      "location": "Barcelona, Spain",
+      "url": "https://www.digital-legends.com/",
+      "startDate": "2016-07-01",
+      "endDate": "2016-09-01",
+      "summary": "Ensuring the game is bug free",
+      "highlights": [],
+      "responsibilities": [
+        "Ran quality tests on every build",
+        "Reported any bugs found"
+      ],
+      "achievements": [
+      ],
+      "skills": {
+        "Git": "simple-icons:git",
+        "Jira": "simple-icons:jira",
+        "Apple": "simple-icons:apple"
       }
     }
   ],
   "skills": [
     {
-      "name": "HTML",
-      "icon": "simple-icons:html5",
+      "name": "Unreal Engine",
+      "icon": "simple-icons:unrealengine",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend"
+        "Game Development",
+        "Game Engine"
       ]
     },
     {
-      "name": "CSS",
-      "icon": "ri:css3-fill",
+      "name": "C++",
+      "icon": "simple-icons:cplusplus",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
       ]
     },
     {
@@ -190,25 +216,12 @@
       ]
     },
     {
-      "name": "Tailwind",
-      "icon": "mdi:tailwind",
+      "name": "Python",
+      "icon": "simple-icons:python",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "icon": "simple-icons:typescript",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
+        "Scripting",
+        "Automation"
       ]
     },
     {
@@ -220,17 +233,6 @@
         "Backend",
         "JavaScript",
         "Server"
-      ]
-    },
-    {
-      "name": "SQL",
-      "icon": "simple-icons:mysql",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
       ]
     },
     {
@@ -268,7 +270,7 @@
     {
       "name": "Next.js",
       "icon": "ri:nextjs-line",
-      "level": "Intermediate",
+      "level": "Entry",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -280,18 +282,7 @@
     {
       "name": "React",
       "icon": "mdi:react",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Vue",
-      "icon": "mdi:vuejs",
-      "level": "Intermediate",
+      "level": "Entry",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -302,49 +293,10 @@
     {
       "name": "Docker",
       "icon": "mdi:docker",
-      "level": "Intermediate",
+      "level": "Entry",
       "keywords": [
         "Virtual Environments",
         "Backend"
-      ]
-    },
-    {
-      "name": "NestJS",
-      "icon": "simple-icons:nestjs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "IOC"
-      ]
-    },
-    {
-      "name": "Vite",
-      "icon": "simple-icons:vite",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Build Tool"
-      ]
-    },
-    {
-      "name": "WordPress",
-      "icon": "ri:wordpress-fill",
-      "level": "Intermediate",
-      "keywords": [
-        "PHP",
-        "Fullstack",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "Golang",
-      "icon": "simple-icons:go",
-      "level": "Beginner",
-      "keywords": [
-        "Backend",
-        "Cloud Service"
       ]
     },
     {
@@ -359,57 +311,18 @@
       ]
     },
     {
-      "name": "PHP",
-      "icon": "simple-icons:php",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Nginx",
-      "icon": "simple-icons:nginx",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Web Server"
-      ]
-    },
-    {
-      "name": "Tauri",
-      "icon": "simple-icons:tauri",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Rust",
-        "Webview"
-      ]
-    },
-    {
       "name": "Rust",
       "icon": "simple-icons:rust",
-      "level": "Beginner",
+      "level": "Entry",
       "keywords": [
         "Desktop App",
         "Webview"
-      ]
-    },
-    {
-      "name": "Socket.IO",
-      "icon": "simple-icons:socketdotio",
-      "level": "Beginner",
-      "keywords": [
-        "Realtime",
-        "Websocket"
       ]
     },
     {
       "name": "Electron",
       "icon": "simple-icons:electron",
-      "level": "Beginner",
+      "level": "Entry",
       "keywords": [
         "Desktop App",
         "Webview"
@@ -435,34 +348,8 @@
       ]
     },
     {
-      "name": "Vercel",
-      "icon": "simple-icons:vercel",
-      "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
-    },
-    {
-      "name": "Netlify",
-      "icon": "simple-icons:netlify",
-      "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
-    },
-    {
-      "name": "Tencent Cloud",
-      "icon": "simple-icons:tencentqq",
-      "level": "Intermediate",
-      "keywords": [
-        "Cloud Service"
-      ]
-    },
-    {
-      "name": "Cloudflare Edge Functions",
-      "icon": "simple-icons:cloudflare",
+      "name": "Subversion",
+      "icon": "simple-icons:subversion",
       "level": "Expert",
       "keywords": [
         "Serverless",
@@ -471,64 +358,104 @@
     }
   ],
   "languages": [
-    {
-      "language": "Chinese",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Intermediate"
-    }
+
   ],
   "interests": [
     {
       "name": "Technology",
       "keywords": [
-        "AI",
-        "Blockchain"
       ]
     }
   ],
   "references": [
     {
-      "name": "MiraHikari",
+      "name": "MiraHikariReference",
       "reference": "Reference…"
     }
   ],
   "projects": [
     {
-      "name": "Cloudflare Vmail",
+      "name": "Realms of Alurya",
       "image": {
-        "url": "https://i0.hdslb.com/bfs/article/985e2caa8266dee4b9861ee6a341886d480025691.png@1e_1c.webp",
+        "url": "https://static.wixstatic.com/media/b81a43_cacc22a80cf44c418c8fb22032db96f3~mv2.png/v1/fill/w_735,h_279,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_Horizontal_1500_edited.png",
         "position": "container",
-        "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
+        "dark": "https://static.wixstatic.com/media/b81a43_cacc22a80cf44c418c8fb22032db96f3~mv2.png/v1/fill/w_735,h_279,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_Horizontal_1500_edited.png"
       },
       "isActive": true,
-      "description": "An open source temporary email tool, fully on Cloudflare. Inspired by oiov/vmail",
+      "description": "RPG Multiplayer game with ingame NFTs",
       "highlights": [
-        "🎯 Privacy-friendly, no registration required, out-of-the-box",
-        "✨ Support saving passwords and retrieving email addresses",
-        "😄 Support multiple domain name suffixes",
-        "🚀 100% open source, fully based on Cloudflare."
+        "🎯 ARPG combat",
+        "✨ Diablo like dungeons",
+        "😄 Ingame events",
+        "🚀 Advanced enemy AI + boss fights"
       ],
-      "url": "https://what-the-fuck.sbs",
-      "github": "https://github.com/MiraHikari/cloudflare-vmail"
+      "url": "https://www.realmsofalurya.com/"
     },
     {
-      "name": "Riddle Town Hunt 2",
+      "name": "United 1944",
       "image": {
-        "url": "https://rth2-webstatic.gbclstudio.cn/wp-content/uploads/2024/02/1707656250-76b2b0d2c94824e89a2b8b2c7d1c6afe.png",
-        "position": "background"
+        "url": "https://imgs.search.brave.com/pOpHqof_o5qwYy7LM8NKZiVbOPDAk69fB36lMPSo8nI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/em9uYW1tb3JwZy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMTIvdW5pdGVk/MTk0NHBpYy04MTB4/NDAwLmpwZw",
+        "position": "container",
+        "dark": "https://imgs.search.brave.com/pOpHqof_o5qwYy7LM8NKZiVbOPDAk69fB36lMPSo8nI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/em9uYW1tb3JwZy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMTIvdW5pdGVk/MTk0NHBpYy04MTB4/NDAwLmpwZw"
       },
-      "isActive": false,
-      "description": "Public decryption activity in the form of Puzzle Hunt.",
+      "isActive": true,
+      "description": "World War II Shooter with fun game modes",
       "highlights": [
-        "👌 More than 1000 people participated, system runs normally",
-        "😮‍ Use headless CMS: WordPress to storage and manage contents, dynamically render page",
-        "😊 Windows-like interface",
-        "💕 Based on Astro"
+        "👌 Fast and fun",
+        "😮‍ Great gamemodes",
+        "😊 Realistic graphics",
+        "💕 Historically accurate"
       ],
-      "url": "https://rth2.gcxstudio.cn/"
+      "url": "https://store.steampowered.com/app/2152790/UNITED_1944/"
+    },
+    {
+      "name": "Killsquad",
+      "image": {
+        "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/910490/header.jpg?t=1678348175",
+        "position": "container",
+        "dark": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/910490/header.jpg?t=1678348175"
+      },
+      "isActive": true,
+      "description": "Fun squad oriented multiplayer ARPG game",
+      "highlights": [
+        "👌 Coop based missions",
+        "😮‍ Different levels",
+        "😊 Contract based progress system",
+        "💕 Tons of options to personalize hero builds"
+      ],
+      "url": "https://store.steampowered.com/app/910490/Killsquad/"
+    },
+    {
+      "name": "Samurai Jack: Battle Through Time",
+      "image": {
+        "url": "https://imgs.search.brave.com/Eri8SYICNPSOyOqvy2ZGrt0G2F5J21W1zzAGDm0tu44/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jZG4uYWR1bHRz/d2ltLmNvbS91cGxv/YWRzLzIwMjAwMjI2/LzIwMjI2MTEyNjM4/NS1NZXRhRGF0YV9T/YW11cmFpSmFjay5q/cGc",
+        "position": "container",
+        "dark": "https://imgs.search.brave.com/Eri8SYICNPSOyOqvy2ZGrt0G2F5J21W1zzAGDm0tu44/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jZG4uYWR1bHRz/d2ltLmNvbS91cGxv/YWRzLzIwMjAwMjI2/LzIwMjI2MTEyNjM4/NS1NZXRhRGF0YV9T/YW11cmFpSmFjay5q/cGc"
+      },
+      "isActive": true,
+      "description": "Single player action game",
+      "highlights": [
+        "👌 Based on the TV show",
+        "😮‍ Fun gameplay",
+        "😊 Playable on any apple arcade device"
+      ],
+      "url": "https://apps.apple.com/us/app/samurai-jack/id1496809674"
+    },
+    {
+      "name": "Dooshan",
+      "image": {
+        "url": "https://m.gjcdn.net/game-header/2000/452089-crop0_165_1920_869-ptcwb7rb-v4.webp",
+        "position": "container",
+        "dark": "https://m.gjcdn.net/game-header/2000/452089-crop0_165_1920_869-ptcwb7rb-v4.webp"
+      },
+      "isActive": true,
+      "description": "Game made for the master's degree",
+      "highlights": [
+        "👌 Fast paced third person shooter",
+        "😮‍ Diverse gameplay",
+        "😊 Made on custom engine"
+      ],
+      "url": "https://gamejolt.com/games/dooshan/452089"
     }
   ]
 }
