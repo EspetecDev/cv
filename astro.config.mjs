@@ -23,4 +23,6 @@ export default defineConfig({
       },
     })
   ],
+  site: 'https://espetecdev.github.io',
+  base: 'cv',
 });
