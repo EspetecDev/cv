@@ -10,7 +10,7 @@ import { Image } from "astro:assets";
   <div class="grid grid-cols-1 gap-3 md:grid-cols-2 print:flex print:flex-col">
     {
       projects.map(
-        ({ url, description, highlights, name, isActive, github, image }) => {
+        ({ url, description, highlights, name, isActive, image }) => {
           const isBackgroundImage = image && image?.position === "background";
           const isContainerImage = image && image?.position === "container";
           return (
@@ -60,18 +60,6 @@ import { Image } from "astro:assets";
                     )}
                   </div>
                 </div>
-
-                {github && (
-                  <a
-                    href={github}
-                    title="View slug repository on GitHub"
-                    target="_blank"
-                    rel="noopener"
-                    class="opacity-75 transition duration-100 hover:scale-125 hover:opacity-100"
-                  >
-                    <Icon name="mdi:github" width={24} height={24} />
-                  </a>
-                )}
               </div>
 
               <p class={`relative z-10 py-3 text-sm text-skin-base`}>

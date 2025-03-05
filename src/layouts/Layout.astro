@@ -10,7 +10,7 @@ interface Props {
 
 const { title } = Astro.props;
 
-const { image, summary, url, theme } = CV.basics;
+const { summary, url, theme } = CV.basics;
 ---
 
 <!doctype html>
@@ -20,7 +20,7 @@ const { image, summary, url, theme } = CV.basics;
     <title>{title}</title>
     <meta name="description" content={summary} />
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" href="./favicon.ico" />
+    <link rel="icon" href="./cv/favicon.ico" />
     <meta property="og:url" content={url} />
     <meta property="og:type" content="website" />
     <meta property="og:title" content={title} />
