@@ -97,7 +97,7 @@ const profilesInfo = profiles.map(({ network, url }) => {
       hotkey: 'ctrl+P',
       section: 'Actions',
       handler: () => {
-        window.print()
+        window.location.href = "cv/CV_ManelHidalgo_EN.pdf";
       },
     },
     ...data,
@@ -117,6 +117,13 @@ const profilesInfo = profiles.map(({ network, url }) => {
         metaKey: false,
       })
       document.dispatchEvent(event)
+    })
+  })
+
+  const cvButton = document.querySelectorAll('.cv-button')
+  cvButton.forEach(button => {
+    button.addEventListener('click', () => {
+      window.location.href = "cv/CV_ManelHidalgo_EN.pdf";
     })
   })
 </script>
