@@ -69,6 +69,7 @@ const profilesInfo = profiles.map(({ network, url }) => {
     handler?: () => void
   }
 
+import { AstroDevToolbar } from 'astro/runtime/client/dev-toolbar/toolbar.js'
   import HotKeyPad from 'hotkeypad'
 
   const hotkeypad = new HotKeyPad()
@@ -97,7 +98,7 @@ const profilesInfo = profiles.map(({ network, url }) => {
       hotkey: 'ctrl+P',
       section: 'Actions',
       handler: () => {
-        Astro.redirect('CV_ManelHidalgo_EN.pdf');
+        window.open('cv/CV_ManelHidalgo_EN.pdf', '_blank')?.focus();
       },
     },
     ...data,
@@ -123,7 +124,7 @@ const profilesInfo = profiles.map(({ network, url }) => {
   const cvButton = document.querySelectorAll('.cv-button')
   cvButton.forEach(button => {
     button.addEventListener('click', () => {
-      Astro.redirect('CV_ManelHidalgo_EN.pdf');
+      window.open('cv/CV_ManelHidalgo_EN.pdf', '_blank')?.focus();
     })
   })
 </script>
