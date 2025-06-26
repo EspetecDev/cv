@@ -98,7 +98,7 @@ import { AstroDevToolbar } from 'astro/runtime/client/dev-toolbar/toolbar.js'
       hotkey: 'ctrl+P',
       section: 'Actions',
       handler: () => {
-        window.open('cv/CV_ManelHidalgo_EN.pdf', '_blank')?.focus();
+        window.open('/CV_ManelHidalgo_EN.pdf', '_blank')?.focus();
       },
     },
     ...data,
@@ -124,7 +124,7 @@ import { AstroDevToolbar } from 'astro/runtime/client/dev-toolbar/toolbar.js'
   const cvButton = document.querySelectorAll('.cv-button')
   cvButton.forEach(button => {
     button.addEventListener('click', () => {
-      window.open('cv/CV_ManelHidalgo_EN.pdf', '_blank')?.focus();
+      window.open('CV_ManelHidalgo_EN.pdf', '_blank')?.focus();
     })
   })
 </script>
