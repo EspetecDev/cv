@@ -3,7 +3,7 @@
   "pageLayout": "two-column",
   "basics": {
     "name": "Manel Hidalgo Agraz",
-    "label": "Senior Game Developer",
+    "label": "Senior Gameplay Programmer",
     "image": "./",
     "email": "manelhidalgoagraz@gmail.com",
     "url": "https://github.com/EspetecDev",
@@ -95,13 +95,17 @@
       "location": "ES",
       "url": "https://www.synergygames.es/",
       "startDate": "2024-04-01",
-      "endDate": null,
+      "endDate": "2025-07-17",
       "summary": "Developing gameplay multiplayer features in Unreal Engine 5",
       "highlights": [],
       "responsibilities": [
-        "Developed features for the game",
-        "Code review my coworkers commits",
-        "Building and maintaining the game"
+        "Prototyped and developed level scripted actors",
+        "Implemented GAS based abilities for the player",
+        "Designed and implemented an Input Queue system for ability caching",
+        "Developed a Seasonal Event manager that can be managed from our backend",
+        "Helped the team to upgrade the Unreal Engine version of the project",
+        "Integrated bugsplat to improve the bugfixing catching process",
+        "Deployed game builds over docker"
       ],
       "achievements": [
         "Launching Realms of Aluria"
@@ -122,15 +126,23 @@
       "endDate": "2024-03-01",
       "summary": "Worked in several projects with Unreal Engine 4 and 5",
       "highlights": [
-        "Launched 3 titles (one both for PC and PS4)"
+        "Launched 3 titles (one both for PC and PS4, another being a port to Apple Arcade)"
       ],
       "responsibilities": [
-        "Developed features for the game",
-        "Code review my coworkers commits",
-        "Building and maintaining the game"
+        "Designed game systems such as achievements, quests and ingame events",
+        "Refactorized codebase to add new modules and systems",
+        "Rebuilded the entire UI",
+        "Prototyped a new game",
+        "Upgraded an external project from Unreal 4 to Unreal 5",
+        "Integrated EOS framework",
+        "Implemented tests for United 1944 backend"
       ],
       "achievements": [
-        "Ensured smooth project execution."
+        "Lanunched Killsquad on PC and Steam.",
+        "Ported Samurai Jack to Apple Arcade (with Unreal 4)",
+        "Launched United 1944",
+        "Prototyped an interal project",
+        "Codeveloped features for 2 external projects"
       ],
       "skills": {
         "Unreal Engine 5": "simple-icons:unrealengine",
@@ -152,17 +164,24 @@
       "summary": "Developing insider apps for the company",
       "highlights": [],
       "responsibilities": [
-        "Developed features for the interal apps",
-        "Code review my coworkers commits",
-        "Ensuring the build pipeline is working"
+        "Implement Git pipelines into projects",
+        "Improve the CI/CD worflow",
+        "Developed a Django app",
+        "Developed an Android app",
+        "Supervise and review code from a team of 4 coders on another location"
       ],
       "achievements": [
-        "Launching Realms of Aluria"
+        "Improve my code skills",
+        "Improve the workflow of the team",
+        "Develop to production two new apps"
       ],
       "skills": {
         "Docker": "simple-icons:docker",
         "Node.js": "ri:nodejs-line",
-        "JavaScript": "simple-icons:javascript"
+        "JavaScript": "simple-icons:javascript",
+        "Django": "simple-icons:python",
+        "Pyhton": "simple-icons:python",
+        "Android": "simple-icons:android"
       }
     },
     {
@@ -173,11 +192,12 @@
       "url": "https://www.digital-legends.com/",
       "startDate": "2016-07-01",
       "endDate": "2016-09-01",
-      "summary": "Ensuring the game is bug free",
+      "summary": "Starting my game development career",
       "highlights": [],
       "responsibilities": [
         "Ran quality tests on every build",
-        "Reported any bugs found"
+        "Reported bugs found",
+        "Helped devs to locate bugs more precisely"
       ],
       "achievements": [
       ],
@@ -379,7 +399,7 @@
       "name": "Realms of Alurya",
       "image": {
         "url": "https://static.wixstatic.com/media/b81a43_cacc22a80cf44c418c8fb22032db96f3~mv2.png/v1/fill/w_735,h_279,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_Horizontal_1500_edited.png",
-        "position": "container",
+        "position": "background",
         "dark": "https://static.wixstatic.com/media/b81a43_cacc22a80cf44c418c8fb22032db96f3~mv2.png/v1/fill/w_735,h_279,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_Horizontal_1500_edited.png"
       },
       "isActive": true,
