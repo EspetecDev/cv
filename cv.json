@@ -398,8 +398,8 @@
     {
       "name": "Realms of Alurya",
       "image": {
-        "url": "https://static.wixstatic.com/media/b81a43_cacc22a80cf44c418c8fb22032db96f3~mv2.png/v1/fill/w_735,h_279,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_Horizontal_1500_edited.png",
-        "position": "background",
+        "url": "https://youtu.be/kzC0GgPV1pI",
+        "position": "container",
         "dark": "https://static.wixstatic.com/media/b81a43_cacc22a80cf44c418c8fb22032db96f3~mv2.png/v1/fill/w_735,h_279,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_Horizontal_1500_edited.png"
       },
       "isActive": true,
@@ -415,7 +415,7 @@
     {
       "name": "United 1944",
       "image": {
-        "url": "https://imgs.search.brave.com/pOpHqof_o5qwYy7LM8NKZiVbOPDAk69fB36lMPSo8nI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/em9uYW1tb3JwZy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMTIvdW5pdGVk/MTk0NHBpYy04MTB4/NDAwLmpwZw",
+        "url": "https://youtu.be/bVDm4jnlB54",
         "position": "container",
         "dark": "https://imgs.search.brave.com/pOpHqof_o5qwYy7LM8NKZiVbOPDAk69fB36lMPSo8nI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/em9uYW1tb3JwZy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMTIvdW5pdGVk/MTk0NHBpYy04MTB4/NDAwLmpwZw"
       },
@@ -432,7 +432,7 @@
     {
       "name": "Killsquad",
       "image": {
-        "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/910490/header.jpg?t=1678348175",
+        "url": "https://youtu.be/KgtB6Xm0sKU",
         "position": "container",
         "dark": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/910490/header.jpg?t=1678348175"
       },
@@ -449,7 +449,7 @@
     {
       "name": "Samurai Jack: Battle Through Time",
       "image": {
-        "url": "https://imgs.search.brave.com/Eri8SYICNPSOyOqvy2ZGrt0G2F5J21W1zzAGDm0tu44/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jZG4uYWR1bHRz/d2ltLmNvbS91cGxv/YWRzLzIwMjAwMjI2/LzIwMjI2MTEyNjM4/NS1NZXRhRGF0YV9T/YW11cmFpSmFjay5q/cGc",
+        "url": "https://youtu.be/6VmwsV6MA58",
         "position": "container",
         "dark": "https://imgs.search.brave.com/Eri8SYICNPSOyOqvy2ZGrt0G2F5J21W1zzAGDm0tu44/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jZG4uYWR1bHRz/d2ltLmNvbS91cGxv/YWRzLzIwMjAwMjI2/LzIwMjI2MTEyNjM4/NS1NZXRhRGF0YV9T/YW11cmFpSmFjay5q/cGc"
       },
@@ -465,7 +465,7 @@
     {
       "name": "Dooshan",
       "image": {
-        "url": "https://m.gjcdn.net/game-header/2000/452089-crop0_165_1920_869-ptcwb7rb-v4.webp",
+        "url": "https://youtu.be/ZafeMIopxqU",
         "position": "container",
         "dark": "https://m.gjcdn.net/game-header/2000/452089-crop0_165_1920_869-ptcwb7rb-v4.webp"
       },

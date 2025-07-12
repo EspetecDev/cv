@@ -73,7 +73,7 @@ import { Image } from "astro:assets";
               {isContainerImage && (
                 <a data-src={image.url} data-fancybox="projects">
                   <Image
-                    src={image.url}
+                    src={image.dark}
                     alt=""
                     width={800}
                     height={1080}
@@ -107,7 +107,7 @@ import { Image } from "astro:assets";
 </Section>
 <script>
   import { Fancybox } from "@fancyapps/ui";
-  Fancybox.bind('[data-fancybox="projects"]', { hideScrollbar: false });
+  Fancybox.bind('[data-fancybox="projects"]', { hideScrollbar: true });
 </script>
 
 <style>
