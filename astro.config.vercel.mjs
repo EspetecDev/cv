@@ -26,5 +26,5 @@ export default defineConfig({
   ],
   outDir: 'dist',
   output: 'static',
-  adapter: vercel()
+  adapter: vercel({})
 });
