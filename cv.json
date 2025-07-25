@@ -154,6 +154,39 @@
       }
     },
     {
+      "name": "UPF Videogame Creation Master",
+      "position": "Programmer",
+      "location_type": "Onsite",
+      "location": "Barcelona, Spain",
+      "url": "https://www.bsm.upf.edu/en",
+      "startDate": "2018-08-01",
+      "endDate": "2019-12-01",
+      "summary": "Built a custom engine from scratch and a game on top of it",
+      "highlights": [
+        "Custom engine built with C++ and DirectX 12",
+        "Entity Component System based",
+        "Binded Lua scripting language for high level logic",
+        "👌 Fast and fun"
+      ],
+      "responsibilities": [
+        "Designed and implemented game systems such as weapons, level ingame events or UI",
+        "Refactorized codebase to add new modules and systems",
+        "Programmed UI and tools to make easier the placement of widgets",
+        "Designed and implemented Dooshan melee enemy (AI, shaders...)",
+        "Scripted Dooshan game events"
+      ],
+      "achievements": [
+        "Learned and implemented a full fledged custom Game Engine from scratch",
+        "Learned all the phases of game development",
+        "Finished a game on top of the custom engine"
+      ],
+      "skills": {
+        "C++": "simple-icons:cplusplus",
+        "Lua": "simple-icons:lua",
+        "3DS Max": "simple-icons:autodesk"
+      }
+    },
+    {
       "name": "Applus IDIADA",
       "position": "Full Stack Developer",
       "location_type": "Onsite",
