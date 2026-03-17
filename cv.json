@@ -89,6 +89,64 @@
   ],
   "work": [
     {
+      "name": "Universitat Rovira i Virgili",
+      "position": "Assistant Professor",
+      "location_type": "Onsite",
+      "location": "ES",
+      "url": "https://www.urv.cat/en/",
+      "startDate": "2025-09-01",
+      "summary": "Teching in some Computer Science degree's courses",
+      "highlights": ["Networking", "Programming Basics", "Distributed Systems"],
+      "responsibilities": [
+        "Ensure that the alumni learns and stays motivated through the course",
+        "Share my knowledge learnt through real work experience"
+      ],
+      "skills": {
+        "Mentorship": "",
+        "Public Talking": ""
+      }
+    },
+    {
+      "name": "Universitat Oberta de Catalunya",
+      "position": "Final Degree Project Mentor",
+      "location_type": "Remote",
+      "location": "ES",
+      "url": "https://www.uoc.edu/en",
+      "startDate": "2025-10-01",
+      "summary": "Mentorship for final degree projects themed with game development",
+      "highlights": [],
+      "responsibilities": [
+        "Mentor the alumni through real work experience",
+        "Share my knowledge"
+      ],
+      "achievements": [
+        "Get the alumni to learn and develop a real project"
+      ],
+      "skills": {
+        "Mentorship": "",
+        "Project Analysis": ""
+      }
+    },
+    {
+      "name": "Sierra Division",
+      "position": "Senior Gameplay Developer",
+      "location_type": "Remote",
+      "location": "IE",
+      "url": "https://www.sierradivision.com/",
+      "startDate": "2025-08-01",
+      "summary": "Working on internal projects",
+      "highlights": [],
+      "responsibilities": [
+        "Build robust and scalable gameplay features",
+        "Implement multiplayer architechture that adjusts to the scope of the project"
+      ],
+      "skills": {
+        "Unreal Engine 5": "simple-icons:unrealengine",
+        "C++": "simple-icons:cplusplus",
+        "Perforce": "simple-icons:perforce"
+      }
+    },
+    {
       "name": "Synergy Games",
       "position": "Senior Gameplay Developer",
       "location_type": "Remote",
