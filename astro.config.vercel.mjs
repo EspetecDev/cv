@@ -1,5 +1,4 @@
 // @ts-check
-import * as vscode from 'vscode'
 import { defineConfig } from "astro/config";
 import tailwind from "@astrojs/tailwind";
 import astroIcon from 'astro-icon';
